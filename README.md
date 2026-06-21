@@ -21,3 +21,12 @@ The Caesar Cipher is a classic encryption technique where each letter in the mes
 ## ▶️ How to Run
 1. Clone this repository
 2. Run the script:
+3. Choose Encrypt or Decrypt
+4. Enter your message and shift value
+
+## 📖 Example
+Input: HELLO, Shift: 3
+Output: KHOOR
+
+## 👩‍💻 Author
+sued shahul ahmad 
