@@ -29,4 +29,4 @@ Input: HELLO, Shift: 3
 Output: KHOOR
 
 ## 👩‍💻 Author
-sued shahul ahmad 
+Syed shahul ahmad 
